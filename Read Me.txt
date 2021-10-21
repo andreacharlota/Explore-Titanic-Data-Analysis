@@ -1,0 +1,19 @@
+DATA DESCRIPTION:
+
+- PassengerId		: Passenger ID
+- Survived		: Survival; 0 = No, 1 = Yes
+- pclass		: Ticket class;	1 = 1st, 2 = 2nd, 3 = 3rd
+- Name			: Passanger Name
+- Sex			: Sex	
+- Age			: Age in years	
+- Sibsp			: Many of siblings / spouses aboard the Titanic	
+- Parch			: Many of parents / children aboard the Titanic	
+- Ticket		: Ticket number	
+- Fare			: Passenger fare	
+- Cabin			: Cabin number	
+- Embarked		: Port of Embarkation; C = Cherbourg, Q = Queenstown, S = Southampton
+
+QUESTIONS:
+1. Do Exploratory Data Analysis to explore the Titanic Data!
+2. If there are missing values, duplicated data, inconsisten data, or the orther problems in data, please handle or solve it by Data Preparation!
+3. Summarize data and give some insight in your visualization!
